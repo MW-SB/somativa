@@ -1,0 +1,30 @@
+.lbl{
+    font-size: 15px;
+}
+
+.bnt {
+    background-color: lightblue;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.lnk {
+    margin-left: 20px;
+}
+
+.inp {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.div {
+    margin-left: 10px;
+}
+
+.title {
+    font-size: 25px;
+}
+
+.div2 {
+    margin-right: 100px;
+}
